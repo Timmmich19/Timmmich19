@@ -5,4 +5,4 @@
 - 📫 How to reach me:
   [![](https://img.shields.io/badge/telegram-0a66c2)](https://t.me/Timmmich)
   [![](https://img.shields.io/badge/vkontakte-6364ff)](https://vk.com/timmmich)
-  [![](https://img.shields.io/badge/yandex_email)](t.akhmatovya@yandex.ru)
+  [![](https://img.shields.io/badge/yandex_email-gold)](t.akhmatovya@yandex.ru)
